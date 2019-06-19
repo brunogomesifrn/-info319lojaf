@@ -1,0 +1,12 @@
+.titulopagina{
+	text-align: center;
+	background-color: deeppink;
+	color: white;
+	font-family: "times new roman";
+}
+
+.descricao{
+	background-image: url(rosa.jpg);
+	height: 200px;
+}
+
