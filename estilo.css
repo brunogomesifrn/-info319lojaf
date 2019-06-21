@@ -1,3 +1,4 @@
+/*Página inicial */
 .titulopagina{
 	text-align: center;
 	background-color: deeppink;
@@ -5,8 +6,36 @@
 	font-family: "times new roman";
 }
 
-.descricao{
-	background-image: url(rosa.jpg);
+.fundo{
+	background-image: url(imagens/fundo.jpg);
 	height: 200px;
+	margin-bottom: 50px;
 }
 
+.calcado{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+.roupa{
+	margin-top: 50px;
+}
+
+.maquiagem{
+	margin-top: 50px;
+}
+
+.descricao{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "times new roman";
+margin-top: 100px; 
+}
+
+.rodape{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+}
