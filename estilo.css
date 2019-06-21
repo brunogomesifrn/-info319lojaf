@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* (index) */
+=======
+/*Página inicial */
+>>>>>>> 5b3c217b8e3fa9ed0f70a5df980409d4c3d09e87
 .titulopagina{
 	text-align: center;
 	background-color: deeppink;
@@ -6,11 +10,26 @@
 	font-family: "times new roman";
 }
 
-.descricao{
-	background-image: url(rosa.jpg);
+.fundo{
+	background-image: url(imagens/fundo.jpg);
 	height: 200px;
+	margin-bottom: 50px;
 }
 
+.calcado{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+.roupa{
+	margin-top: 50px;
+}
+
+.maquiagem{
+	margin-top: 50px;
+}
+
+<<<<<<< HEAD
 
 /* Login */
 .login
@@ -37,3 +56,41 @@
 	background-image: url('fundo.jpg');
 	height: 100px;
 }
+=======
+<<<<<<< HEAD
+/*Bia*/
+.cadastro
+{
+ background-color: black;
+ color: white;
+ font-family: "times new roman";
+ margin-top: 10px;
+ padding-left: 10px;
+}
+
+.formulariocadastro
+{
+border: 1px solid black;
+padding-top: 40px;
+padding-left: 20px;
+text-align: center;
+padding-bottom: 20px;
+margin-left: 380px ;
+margin-top: 40px; 
+=======
+.descricao{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "times new roman";
+margin-top: 100px; 
+}
+
+.rodape{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+>>>>>>> 154637053fbbc3bbf0c5395673775e8d14c84d4f
+}
+>>>>>>> 5b3c217b8e3fa9ed0f70a5df980409d4c3d09e87
