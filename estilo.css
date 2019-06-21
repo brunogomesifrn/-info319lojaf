@@ -1,3 +1,4 @@
+/* (index) */
 .titulopagina{
 	text-align: center;
 	background-color: deeppink;
@@ -10,3 +11,29 @@
 	height: 200px;
 }
 
+
+/* Login */
+.login
+{
+	background-color: black;
+	color: white;
+	font-family: "times new roman";
+	margin-top: 10px;
+	padding-left: 10px;
+}
+.formulariologin
+{
+	border:1px solid black;
+	padding-top: 40px;
+	padding-left: 20px;
+	text-align: center;
+	padding-bottom: 20px;
+	margin-left: 600px;
+	margin-top: 200px;
+}
+.fundologin
+{
+	
+	background-image: url('fundo.jpg');
+	height: 100px;
+}
