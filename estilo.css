@@ -10,8 +10,12 @@
 
 .fundo{
 	background-image: url(fundo/fundo.jpg);
-	height: 200px;
+	padding: 100px;
 	margin-bottom: 50px;
+}
+
+.looks{
+	text-align: center;
 }
 
 .calcado{
@@ -37,7 +41,25 @@
 
 .desenvolvedoras{
 	margin-top: 200px;
-	background-color: black;
+	background-color: pink;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.bia{
+	margin-left: 220px;
+}
+
+.rayane{
+	padding-left: 100px; 
+}
+
+.rayssa{
+	padding-left: 150px;
+}
+
+.paragrafo{
+	text-align: justify;
 }
 
 .descricao{
@@ -45,7 +67,7 @@ background-color: black;
 color: white;
 text-align: center;
 font-family: "times new roman"; 
-
+padding: 30px;
 }
 
 .rodape{
@@ -53,7 +75,6 @@ font-family: "times new roman";
 	color: white;
 	font-family: "times new romam";
 	text-align: center;
-	
 }
 
 
@@ -289,3 +310,90 @@ padding: 25px;
 	
 }
 
+/*-------CARRINHO-------*/
+
+.carrinho{
+	text-align: center;
+	background-color: deeppink;
+	color: white;
+	font-family: "times new roman"
+}
+
+.fundocarrinho{
+	background-image: url(fundo/fundocarrinho.jpg);
+	padding: 100px;
+	margin-bottom: 50px;
+}
+
+.itensguardados{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.saiaflorida{
+	margin-left: 100px;
+	margin-top:50px;
+	border: 3px solid pink;
+	padding-left:40px;
+	padding-top: 20px;
+}
+
+.shortvermelho{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 20px;
+}
+
+.saiajeans{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+.batom{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+.sandalia{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+.sandaliaprata{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 60px;
+	padding-top: 70px;
+}
+
+.descricaocarrinho{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "times new roman"; 
+padding: 30px;
+margin-top: 150px;
+}
+
+.rodapecarrinho{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+}
