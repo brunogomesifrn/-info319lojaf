@@ -9,23 +9,54 @@
 }
 
 .fundo{
-	background-image: url(imagens/fundo.jpg);
+	background-image: url(fundo/fundo.jpg);
 	height: 200px;
 	margin-bottom: 50px;
 }
 
 .calcado{
 	margin-left: 100px;
-	margin-top: 40px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
 }
 
 .roupa{
-	margin-top: 50px;
+	margin-left: 100px;
+	margin-top: 49px;
+	border: 3px solid pink;
+	padding-left: 70px;
 }
 
 .maquiagem{
+	margin-left: 100px;
 	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
 }
+
+.desenvolvedoras{
+	margin-top: 200px;
+	background-color: black;
+}
+
+.descricao{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "times new roman"; 
+
+}
+
+.rodape{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+	
+}
+
+
 
 /* Login */
 .login
@@ -75,19 +106,5 @@ margin-left: 380px ;
 margin-top: 40px; 
 }
 
-.descricao{
-background-color: black;
-color: white;
-text-align: center;
-font-family: "times new roman";
-margin-top: 100px; 
-}
 
-.rodape{
-	background-color: deeppink;
-	color: white;
-	font-family: "times new romam";
-	text-align: center;
-	
-}
 
