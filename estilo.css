@@ -1,3 +1,4 @@
+
 /* (index) */
 
 .titulopagina{
@@ -185,51 +186,51 @@ padding: 25px;
 	margin-bottom: 50px;
 }
 .blusabasica{
-	margin-left: 100px;
+	margin-left: 150px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 90px;
 }
 .blusapreta{
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 100px;
 }
 
 .blusaverde{
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 80px;
 }
 
 .calca{
-	margin-left: 100px;
+	margin-left: 150px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 100px;
 }
 
 .calcacor{
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 100px;
 	padding-top: 50px;
 }
 .calcaelegante{
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 80px;
 	padding-top: 50px;
 }
 .vestidorodado{
-	margin-left: 100px;
+	margin-left: 150px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 80px;
 	padding-top: 60px;
 }
 
@@ -237,21 +238,21 @@ padding: 25px;
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 100px;
 	padding-top: 0px;
 }
 .vestidobranco{
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 100px;
+	padding-left: 150px;
 	padding-top: 70px;
 }
 .shortcinto{
-	margin-left: 100px;
+	margin-left: 150px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 80px;
 	padding-top: 50px;
 }
 
@@ -259,36 +260,36 @@ padding: 25px;
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 30px;
+	padding-left: 80px;
 	padding-top: 80px;
 }
 .shortvermelho{
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 100px;
 	padding-top: 60px;
 }
 
 .saiapreta{
-	margin-left: 100px;
+	margin-left: 150px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 80px;
 	padding-top: 50px;
 }
 .saiacorte{
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 50px;
+	padding-left: 80px;
 	padding-top: 10px;
 }
 .saiaflorida{
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
-	padding-left: 30px;
+	padding-left: 80px;
 	padding-top: 60px;
 }
 
@@ -302,70 +303,6 @@ padding: 25px;
 }
 
 .rodaperoupas{
-	background-color: deeppink;
-	color: white;
-	font-family: "times new romam";
-	text-align: center;
-	
-}
-
-
-/*  ---------------Maquiagem-----------------*/
-.categoriamaquiagem
-{
-	background-color: black;
-	color: white;
-	font-family: "times new roman";
-	margin-top: 10px;
-	padding-left: 10px;
-	text-align: center;
-}
-.maleta{
-	margin-left: 100px;
-	margin-top: 50px;
-	border: 3px solid pink;
-	padding-left: 30px;
-	padding-top: 60px;
-}
-.batom{
-	margin-left: 100px;
-	margin-top: 50px;
-	border: 3px solid pink;
-	padding-left: 50px;
-	padding-top: 50px;
-}
-
-.corretivo{
-	margin-left: 100px;
-	margin-top: 50px;
-	border: 3px solid pink;
-	padding-left: 50px;
-	padding-top: 50px;
-}
-.base{
-margin-left: 100px;
-	margin-top: 50px;
-	border: 3px solid pink;
-	padding-left: 50px;
-	padding-top: 50px;	
-}
-.paleta{
-margin-left: 100px;
-	margin-top: 50px;
-	border: 3px solid pink;
-	padding-left: 50px;
-	padding-top: 50px;	
-}
-.descricaomaquiagem{
-	background-color: black;
-	color: white;
-	text-align: center;
-	font-family: "times new roman"; 
-	padding: 25px;
-	margin-top: 100px;
-}
-
-.rodapemaquiagem{
 	background-color: deeppink;
 	color: white;
 	font-family: "times new romam";
@@ -418,17 +355,6 @@ margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
 	padding-left: 50px;
-	padding-top: 10px;
-}
-.sombra{
-	margin-left: 100px;
-	margin-top: 50px;
-	border: 3px solid pink;
-	padding-left: 30px;
-	padding-top: 60px;
-}
-.paleta{
-=======
 	padding-bottom: 30px;
 	padding-top: 20px;
 }
@@ -443,31 +369,10 @@ margin-left: 100px;
 }
 
 .sandalia{
-
 	margin-left: 100px;
 	margin-top: 50px;
 	border: 3px solid pink;
 	padding-left: 50px;
-	padding-top: 50px;
-}
-.pincel{
-	margin-left: 100px;
-	margin-top: 50px;
-	border: 3px solid pink;
-	padding-left: 50px;
-	padding-top: 10px;
-	margin-bottom: 50px;
-}
-.descricaomaquiagem{
-	background-color: black;
-	color: white;
-	text-align: center;
-	font-family: "times new roman"; 
-	padding: 25px;
-	margin-top: 100px;
-}
-
-.rodapemaquiagem{
 	padding-bottom: 30px;
 	padding-top: 20px;
 }
@@ -490,12 +395,11 @@ margin-top: 150px;
 }
 
 .rodapecarrinho{
-
 	background-color: deeppink;
 	color: white;
 	font-family: "times new romam";
 	text-align: center;
-
+}
 
 
 /*-------CALÇADO--------*/
@@ -579,7 +483,6 @@ margin-top: 150px;
 	padding-left: 80px;
 	padding-top: 60px;
 }
-<<<<<<< HEAD
 
 /*---------detalhe--------*/
 
@@ -587,8 +490,3 @@ margin-top: 150px;
 	margin-left: 600px;
 	padding-left: 50px;
   }
-=======
->>>>>>> e030f7230f77a56f4cdfadd97f74d11827df5d70
-estilo.css
-Exibindo estilo.css.
->>>>>>> 6671e55b657f137d61c03985e261eef091a34852
