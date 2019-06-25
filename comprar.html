@@ -12,11 +12,11 @@ crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
-    <div class="container-fluid">
-	<div class="row no-gutters titulopagina">
+    <div class="row no-gutters titulopagina">
  	<div class="col"><h1>Moda Feminina</h1></div>		
- 	</div>
- <h1 class="row no-gutters cadastro">Comprar!</h1>
+ </div>
+ 
+ <h1 class="row no-gutters cadastro">Comprar</h1>
  <title>Compra</title>
  <div class="row">
 	<div class="col fundo"></div>
@@ -25,16 +25,27 @@ crossorigin="anonymous">
 <div class="col-6 formulariocadastro">
 <form action="pagina.php" method="post">
 
-<p>Endereço:
-<input type="text" name="nome" required/>
-</p>
+<h3>Endereço
+</h3>
 
 <p>Nome da rua:
 <input type="text" name="nome"/>
 </p>
 
 <p>Número da casa:
-<input type="password" name="senha" required/>
+<input type="text" name="telefone" placeholder="Somente Números">
+</p>
+
+<p>Bairro:
+<input type="text" name="nome"/>
+</p>
+
+<p>Cidade:
+<input type="text" name="nome"/>
+</p>
+
+<p>Estado:
+<input type="text" name="nome"/>
 </p>
 
 <p>Telefone:
@@ -42,11 +53,11 @@ crossorigin="anonymous">
 </p>
 
 
-<p>Data de nascimento:
-<input type="date" name="data_nascimento" />
+<p>Número do seu cartão:
+<input type="text" name="número" placeholder="Somente Números"/>
 </p>
 
-<p>Digite a sua senha:
+<p>Senha do cartão:
 <input type="password" name="senha"/>
 </p>
 
@@ -58,6 +69,16 @@ crossorigin="anonymous">
 <input type="submit" value="Enviar dados" />
 </p>
 </form>
+</div>
+
+<div class="row">
+	<div class="col descricao"><h5>"Moda Feminina é uma loja virtual que traz para você os últimos lançamentos e as tendências do mundo da moda"</h5></div>
+</div>
+
+<div class="row">
+	<div class="col rodape"><h5>Loja Virtual - 2019</h5></div>
+</div>
+
 
 
 
