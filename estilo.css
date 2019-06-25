@@ -58,6 +58,8 @@ font-family: "times new roman";
 
 
 
+
+
 /* Login */
 .login
 {
@@ -67,6 +69,8 @@ font-family: "times new roman";
 	margin-top: 10px;
 	padding-left: 10px;
 }
+
+
 .formulariologin
 {
 	border:1px solid black;
@@ -83,6 +87,17 @@ font-family: "times new roman";
 	background-image: url('fundo.jpg');
 	height: 100px;
 }
+
+.rodapelogin
+{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+	margin-top: 250px;
+}
+
+
 
 
 /*Cadastro*/
@@ -108,3 +123,46 @@ margin-top: 40px;
 
 
 
+/*--------------Roupas--------------*/
+.categoriaroupas
+{
+	background-color: black;
+	color: white;
+	font-family: "times new roman";
+	margin-top: 10px;
+	padding-left: 10px;
+	text-align: center;
+}
+
+.fundoroupas{
+	background-image: url(fundo/fundoroupas.jpg);
+	height: 200px;
+	margin-bottom: 50px;
+}
+.blusabasica{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
+}
+.blusapreta{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
+}
+
+.blusaverde{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
+}
+.rodaperoupas
+{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+	margin-top: 250px;
+}
