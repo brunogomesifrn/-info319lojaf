@@ -310,6 +310,9 @@ padding: 25px;
 	
 }
 
+
+
+
 /*-------CARRINHO-------*/
 
 .carrinho{
@@ -396,4 +399,87 @@ margin-top: 150px;
 	color: white;
 	font-family: "times new romam";
 	text-align: center;
+}
+
+
+/*-------CALÇADO--------*/
+
+
+.fundocalcado{
+	background-image: url(fundo/fundoroupas.jpg);
+	height: 200px;
+	margin-bottom: 50px;
+}
+
+.saltogrosso{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
+}
+
+.botafeminina{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
+}
+
+.rasteirinha{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 70px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.sapatilhalistrada{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 60px;
+	padding-top: 30px;
+}
+
+.sapatenis{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
+}
+
+.sapatilhaconforto{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
+}
+
+.classica{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
+}
+
+.rasteira{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
+}
+
+.plataforma{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
 }
