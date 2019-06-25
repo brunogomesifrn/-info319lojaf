@@ -79,6 +79,8 @@ padding: 30px;
 
 
 
+
+
 /* Login */
 .login
 {
@@ -88,6 +90,8 @@ padding: 30px;
 	margin-top: 10px;
 	padding-left: 10px;
 }
+
+
 .formulariologin
 {
 	border:1px solid black;
@@ -97,6 +101,7 @@ padding: 30px;
 	padding-bottom: 20px;
 	margin-left: 600px;
 	margin-top: 200px;
+	margin-bottom: 250px;
 }
 .fundologin
 {
@@ -104,6 +109,22 @@ padding: 30px;
 	background-image: url('fundo.jpg');
 	height: 100px;
 }
+.descricaologin{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "times new roman"; 
+padding: 25px;
+}
+.rodapelogin{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+	
+}
+
+
 
 
 /*Cadastro*/
@@ -124,10 +145,170 @@ padding-left: 20px;
 text-align: center;
 padding-bottom: 20px;
 margin-left: 380px ;
-margin-top: 40px; 
+margin-top: 80px; 
+margin-bottom: 150px;
+}
+
+.descricaocadastro{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "times new roman"; 
+padding: 25px;
+}
+
+.rodapecadastro{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+	
 }
 
 
+
+
+
+/*--------------Roupas--------------*/
+.categoriaroupas
+{
+	background-color: black;
+	color: white;
+	font-family: "times new roman";
+	margin-top: 10px;
+	padding-left: 10px;
+	text-align: center;
+}
+
+.fundoroupas{
+	background-image: url(fundo/fundoroupas.jpg);
+	height: 200px;
+	margin-bottom: 50px;
+}
+.blusabasica{
+	margin-left: 150px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 90px;
+}
+.blusapreta{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 100px;
+}
+
+.blusaverde{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+}
+
+.calca{
+	margin-left: 150px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 100px;
+}
+
+.calcacor{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+.calcaelegante{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 50px;
+}
+.vestidorodado{
+	margin-left: 150px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
+}
+
+.vestidolongo{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 100px;
+	padding-top: 0px;
+}
+.vestidobranco{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 150px;
+	padding-top: 70px;
+}
+.shortcinto{
+	margin-left: 150px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 50px;
+}
+
+.shortjeans{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 80px;
+}
+.shortvermelho{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 100px;
+	padding-top: 60px;
+}
+
+.saiapreta{
+	margin-left: 150px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 50px;
+}
+.saiacorte{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 10px;
+}
+.saiaflorida{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 80px;
+	padding-top: 60px;
+}
+
+.descricaoroupas{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: "times new roman"; 
+	padding: 25px;
+	margin-top: 100px;
+}
+
+.rodaperoupas{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+	
+}
 
 /*-------CARRINHO-------*/
 
