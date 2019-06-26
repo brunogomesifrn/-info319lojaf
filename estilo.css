@@ -428,7 +428,6 @@ margin-left: 100px;
 	padding-top: 60px;
 }
 .paleta{
-=======
 	padding-bottom: 30px;
 	padding-top: 20px;
 }
@@ -496,7 +495,7 @@ margin-top: 150px;
 	font-family: "times new romam";
 	text-align: center;
 
-
+}
 
 /*-------CALÇADO--------*/
 
@@ -579,16 +578,103 @@ margin-top: 150px;
 	padding-left: 80px;
 	padding-top: 60px;
 }
-<<<<<<< HEAD
 
-/*---------detalhe--------*/
-
-.roupa{
+.blusabasicad{
 	margin-left: 600px;
+	margin-top: 50px;
+	border: 3px solid pink;
 	padding-left: 50px;
-  }
-=======
->>>>>>> e030f7230f77a56f4cdfadd97f74d11827df5d70
-estilo.css
-Exibindo estilo.css.
->>>>>>> 6671e55b657f137d61c03985e261eef091a34852
+}
+
+
+/*pagina inicial*/
+
+.titulopaginicial{
+	text-align: center;
+	background-color: deeppink;
+	color: white;
+	font-family: "times new roman";
+}
+
+.fundopaginicial{
+	background-image: url(fundo/fundo.jpg);
+	padding: 100px;
+	margin-bottom: 50px;
+}
+
+.looks{
+	text-align: center;
+}
+
+.calcadopag{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
+}
+
+.roupapag{
+	margin-left: 100px;
+	margin-top: 49px;
+	border: 3px solid pink;
+	padding-left: 70px;
+}
+
+.maquiagempag{
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 3px solid pink;
+	padding-left: 50px;
+}
+
+.descricaopag{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "times new roman"; 
+padding: 30px;
+}
+
+.rodapepaginicial{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+}
+
+
+/* ------DADOS----*/
+.dados{
+ background-color: black;
+ color: white;
+ font-family: "times new roman";
+ margin-top: 10px;
+ padding-left: 10px;
+}
+
+.formulariodados{
+border: 1px solid black;
+padding-top: 40px;
+padding-left: 20px;
+text-align: center;
+padding-bottom: 20px;
+margin-left: 380px ;
+margin-top: 80px; 
+margin-bottom: 200px;
+}
+
+.descricaodados{
+background-color: black;
+color: white;
+text-align: center;
+font-family: "times new roman"; 
+padding: 25px;
+}
+
+.rodapedados{
+	background-color: deeppink;
+	color: white;
+	font-family: "times new romam";
+	text-align: center;
+	
+}
